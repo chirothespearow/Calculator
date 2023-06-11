@@ -1,5 +1,5 @@
 # Calculator
 
-To add: hover functionality
-        add limit on display
+To add: hover functionality\n
+        add limit on display\n
         show expressions
