@@ -1,5 +1,8 @@
 # Calculator
-
-To add: hover functionality\n
-        add limit on display\n
-        show expressions
+To be added:\
+Hover functionality\
+        Add limit on display\
+        Show expressions\
+        
+        
+        https://chirothespearow.github.io/Calculator/
