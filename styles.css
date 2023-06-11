@@ -1,11 +1,11 @@
 html,body{
+    color: #FFFDD0;    ;
     display:flex;
     margin:0;
     height:100%;
     justify-content: center;
     font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
 }
-
 
 .display{
     width: 100%;
@@ -40,6 +40,7 @@ html,body{
 .number, .zero{
     background-color: #333333;
     color: #EBEBEB;
+    transition-delay: 0.04s;
 }
 
 .zero{
@@ -64,7 +65,6 @@ html,body{
     justify-content: space-evenly;
 }
 
-
 .bottom{
     margin-bottom: 4%;
 }
@@ -74,4 +74,14 @@ button{
     border: 0;
     height:80%;
     font-size: 24px;
+    transition-delay: 0.1s;
+}
+
+.press{
+    filter: brightness(1.75);
+}
+
+.hold{
+    background-color: #FBF7EA;
+    color: #FE9400;
 }
